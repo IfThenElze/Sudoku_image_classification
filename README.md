@@ -1,1 +1,0 @@
-# Sudoku_image_classification
